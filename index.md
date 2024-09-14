@@ -9,9 +9,9 @@
 
 print("Hello World")
 
-- [x] made a list
-- [x] sang a song
-- [x] Started learning how to use git
+- [ ] made a list
+- [ ] sang a song
+- [ ] Started learning how to use git
 - [ ] finished learning how to use git
 - [ ] help why wont it work
 - [ ] yay
