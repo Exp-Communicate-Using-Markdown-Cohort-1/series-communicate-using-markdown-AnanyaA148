@@ -1,4 +1,7 @@
-# You are 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] # You are 
 ## my fire
 ### the one desire
 #### believe 
