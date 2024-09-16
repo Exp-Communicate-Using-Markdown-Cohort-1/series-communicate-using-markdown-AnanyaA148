@@ -1,3 +1,7 @@
+
+- [ ] I need to cook
+- [ ] I need to eat
+- [ ] I need to sleep
 # You are 
 ## my fire
 ### the one desire
