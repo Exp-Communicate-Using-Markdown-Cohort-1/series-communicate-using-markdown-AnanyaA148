@@ -15,3 +15,6 @@ print("Hello World")
 - [ ] finished learning how to use git
 - [ ] help why wont it work
 - [ ] yay
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
